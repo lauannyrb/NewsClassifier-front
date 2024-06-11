@@ -32,7 +32,7 @@ O NewsClassifier é uma aplicação que utiliza inteligência artificial para cl
 
 1. **Clone o Repositório (Front-end):**
    ```bash
-   git clone https://github.com/lauannyrb/NewsClassifier-front.git
+   git clone https://github.com/lauannyrb/newsclassifier-front.git
    ```
 2. **Instale as Dependências (Front-end):**
    ```bash
